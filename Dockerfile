@@ -1,4 +1,4 @@
-FROM node:12
+FROM node:12-slim
 
 ENV NPM_CONFIG_LOGLEVEL info
 
